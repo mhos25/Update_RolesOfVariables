@@ -1,0 +1,1 @@
+int a; int sum; a = UserInputReader.readInt(); sum = a;int b; b = UserInputReader.readInt(); sum = sum +b; println(sum);println("Total sum is: " + sum);println("Value of a: " + a);
